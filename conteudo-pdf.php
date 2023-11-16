@@ -34,7 +34,7 @@ $produtos = $produtoRepositorio->buscarTodos();
     }
     .container-admin-banner h1{
         margin-top: 40px;
-        font-size: 30px;}
+        font-size: 30px;
 </style>
 
 <table>
@@ -59,4 +59,3 @@ $produtos = $produtoRepositorio->buscarTodos();
 
     </tbody>
 </table>
-
